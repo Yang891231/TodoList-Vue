@@ -8,7 +8,9 @@
     "build": "vite build",
     "preview": "vite preview",
     "test:unit": "vitest",
-    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+    "homepage": "https://yang891231.github.io/TodoList-Vue/",
+    "deploy": "vite build -d dist"
   },
   "dependencies": {
     "pinia": "^2.1.7",

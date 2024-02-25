@@ -9,9 +9,11 @@
       <button class="ml-5 text-white hover:bg-slate-500 border p-1 rounded-xl">新增</button>
     </div>
     <div class="all-title flex mt-2 pb-2 border-b-2 gap-3">
-      <button class="ml-3 title title-bgc text-black w-20 text-center bg-green-300 focus:bg-green-700" data-title="all">全部</button>
+      <button class="ml-3 title title-bgc text-black w-20 text-center bg-green-300 focus:bg-green-700"
+        data-title="all">全部</button>
       <button class="title text-black w-20 text-center bg-green-300 focus:bg-green-700" data-title="do">已執行</button>
-      <button class="title text-black w-20 text-center bg-green-300 focus:bg-green-700" data-title="not-to-do">未執行</button>
+      <button class="title text-black w-20 text-center bg-green-300 focus:bg-green-700"
+        data-title="not-to-do">未執行</button>
     </div>
     <div>
       <table class="w-full pt-1 pb-2">
@@ -23,7 +25,7 @@
           </tr>
         </thead>
         <tbody>
-          <tr >
+          <tr>
             <th class="text-white w-1/3 pt-3"><input type="checkbox" id=""></th>
             <th class="text-white w-1/3 pt-3">XXX</th>
             <th class="text-white w-1/3 pt-3">
