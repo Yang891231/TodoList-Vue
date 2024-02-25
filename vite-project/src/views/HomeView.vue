@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="w-4/5 m-auto h-full bg-gray-600">
+  <div class="w-3/5 m-auto h-full bg-gray-600">
     <div class="input-item flex justify-center mt-3 border-b-2 pb-3">
       <input type="text" class="w-1/3 pl-3 text-black" placeholder="請填寫事項(最多15字)" maxlength="15">
       <button class="ml-5 text-white hover:bg-slate-500 border p-1 rounded-xl">新增</button>
